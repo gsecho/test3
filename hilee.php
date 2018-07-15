@@ -12,3 +12,4 @@ echo 'edit git';
 
 echo 'edit git2';
 
+echo 'quickly fork';
