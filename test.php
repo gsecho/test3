@@ -1,0 +1,2 @@
+<?php
+echo 'nnxue welcome!';
