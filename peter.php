@@ -7,3 +7,5 @@
  */
 
 echo 'branch';
+
+echo 'merge';
